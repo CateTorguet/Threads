@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\bin\Debug\Práctica6.exe.config
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\bin\Debug\Práctica6.exe
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\bin\Debug\Práctica6.pdb
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.Principal.resources
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.Properties.Resources.resources
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.exe
+C:\Users\HP\Desktop\P.Visual\P6\Práctica6\obj\Debug\Práctica6.pdb
